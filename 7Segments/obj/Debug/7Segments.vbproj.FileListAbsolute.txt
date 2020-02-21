@@ -1,0 +1,11 @@
+C:\Users\Jerard\Desktop\7Segments\7Segments\bin\Debug\7Segments.exe.config
+C:\Users\Jerard\Desktop\7Segments\7Segments\bin\Debug\7Segments.exe
+C:\Users\Jerard\Desktop\7Segments\7Segments\bin\Debug\7Segments.pdb
+C:\Users\Jerard\Desktop\7Segments\7Segments\bin\Debug\7Segments.xml
+C:\Users\Jerard\Desktop\7Segments\7Segments\obj\Debug\7Segments.vbprojResolveAssemblyReference.cache
+C:\Users\Jerard\Desktop\7Segments\7Segments\obj\Debug\_7Segments.Form1.resources
+C:\Users\Jerard\Desktop\7Segments\7Segments\obj\Debug\_7Segments.Resources.resources
+C:\Users\Jerard\Desktop\7Segments\7Segments\obj\Debug\7Segments.vbproj.GenerateResource.Cache
+C:\Users\Jerard\Desktop\7Segments\7Segments\obj\Debug\7Segments.exe
+C:\Users\Jerard\Desktop\7Segments\7Segments\obj\Debug\7Segments.xml
+C:\Users\Jerard\Desktop\7Segments\7Segments\obj\Debug\7Segments.pdb
